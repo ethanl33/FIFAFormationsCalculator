@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Formations Calculator</string>
+    <string name="button_send">Calculate</string>
+    <string name="text1">Defensive Layout</string>
+    <string name="text2">Defensive Style</string>
+    <string name="text3">Attacking Style</string>
+    <string name="text4">Playing Tactic</string>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "637709857599",
+    "firebase_url": "https://formations-calculator.firebaseio.com",
+    "project_id": "formations-calculator",
+    "storage_bucket": "formations-calculator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637709857599:android:bb684e44167deb01",
+        "android_client_info": {
+          "package_name": "com.something.FIFAFormationsCalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637709857599-6pmtgnlpaudjs1mcou4h6rs62qecumtp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.something.FIFAFormationsCalculator",
+            "certificate_hash": "7ab5a9ab92a7255b9cd9ee6b8f8aa5ef425d60e4"
+          }
+        },
+        {
+          "client_id": "637709857599-mq53ki7u0d4cni1jpgcdegf9oplf4mbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGvVIKyifaUOTlb0X88oQKRQ9Nc0cftAg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637709857599-mq53ki7u0d4cni1jpgcdegf9oplf4mbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
